@@ -62,22 +62,10 @@ namespace WPF_Ipad
             bgMain.ImageSource = new BitmapImage(new Uri("Images/Paper.jpg", UriKind.Relative));
         }
 
-        private void Button_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
-        {
-            MessageBox.Show("ok");
-            Button btn = (Button)sender;
-            tbl.Text = btn.Content.ToString();
-        }
-
-        private void Button_MouseLeftButtonDown_1(object sender, MouseButtonEventArgs e)
-        {
-            MessageBox.Show("ok");
-        }
-
+       
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Button btn = (Button)sender;
-            tbl.Text = btn.Content.ToString();
+            tbl.Text += ((Button)sender).Content.ToString();
         }
 
     }
