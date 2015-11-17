@@ -1,0 +1,13 @@
+D:\WPF_Ipad\WPF_Ipad\bin\Debug\WPF_Ipad.exe
+D:\WPF_Ipad\WPF_Ipad\bin\Debug\WPF_Ipad.pdb
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\MainWindow.baml
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\MainWindow.g.cs
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\App.g.cs
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\WPF_Ipad_MarkupCompile.cache
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\WPF_Ipad.g.resources
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\WPF_Ipad.Properties.Resources.resources
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\WPF_Ipad.exe
+D:\WPF_Ipad\WPF_Ipad\obj\x86\Debug\WPF_Ipad.pdb
